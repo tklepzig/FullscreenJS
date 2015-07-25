@@ -1,5 +1,6 @@
 {
   "name": "fullscreenjs",
+  "main": "./fullscreen.min.js",
   "homepage": "https://github.com/tklepzig/FullscreenJS",
   "authors": [
     "Thomas Klepzig"
